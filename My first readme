@@ -1,5 +1,0 @@
-root@7394ef76972b:/alx-pre_course# echo 'My first readme' > README.md
-root@7394ef76972b:/alx-pre_course# cat README.md
-MY first readme
-root@7394ef7692b:/alx-pre_course# git config--global user.email losolobethebe@gmail.com
-root@7394ef7692b:/alx-pre_course# git config--global user.name Losolobe
